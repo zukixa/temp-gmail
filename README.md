@@ -20,6 +20,7 @@ pip install curl-cffi
 Here's a basic example of how to use the GMail class from the module:
 
 ```py
+from temp-gmail import GMail
 # Creating an instance of the GMail class
 
 gmail_instance = GMail()
