@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name='temp-gmail',
-    version='1.0.0',
+    version='1.0.1',
     author="zukixa",
     author_email="56563509+zukixa@users.noreply.github.com",
     description="temp gmail api.",

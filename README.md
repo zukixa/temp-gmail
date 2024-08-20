@@ -12,7 +12,7 @@
 To use this module, ensure you have Python installed on your machine along with the `curl_cffi` package. You can install the required package using pip:
 
 ```bash
-pip install curl-cffi
+pip install curl-cffi temp-gmail
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ pip install curl-cffi
 Here's a basic example of how to use the GMail class from the module:
 
 ```py
-from temp-gmail import GMail
+from temp_gmail import GMail
 # Creating an instance of the GMail class
 
 gmail_instance = GMail()
